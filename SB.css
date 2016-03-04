@@ -1,0 +1,126 @@
+
+<style>
+        
+html{}
+
+body{
+  background:url(Study-Groupcopy.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*body{
+    background-color:lightcoral; 
+} */
+
+h1,p,h3{
+    font-family:"Ubuntu Condensed","Calibri";
+}
+
+p{
+    position:absolute;
+    top:90%;
+}
+   
+#Stud{
+    position:absolute;
+    color:orange;
+    left:70%;
+    bottom:80%;
+}
+
+#welcome{
+    top:60%;
+    display:inline;
+    width:50%;
+    min-width:400px;
+    padding:0% 5% 0% 5%;
+    max-width:50;
+     
+    
+}
+
+h1{
+    font-size:3em;
+}
+
+h2{
+    font-family:"Fredoka One";
+    font-size:5em;
+}
+
+
+/*#find {
+    color:blue;
+    display:inline;
+    text-align:right;
+    position:relative;
+    float:right;
+} */
+
+input{
+    cursor:pointer;
+}
+
+#droplist {
+    color:blue;    
+}
+
+#droplist:hover {   
+    color:red;
+}
+         
+.dropdownclick{
+    display:none;
+}
+
+.is-visible{
+    display:block;   
+}
+    
+li{
+    list-style: none;
+    text-align:left; 
+    margin:2px;
+}
+
+ul{
+    padding:0px;
+    margin:0px;
+}
+
+    
+button{
+    cursor:pointer;
+    font-family:"Ubuntu Condensed", sans-serif;
+    font-size:12px;
+    background-color:white;
+    border-radius:5px;
+    border: 2% solid;
+    border-color:lightskyblue;  
+}
+
+button:hover{
+    background-color:lightskyblue;
+    color:white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+
+span{
+    
+    font-family:"Ubuntu Condensed"
+}
+
+
+
+    </style>
+
+
+
+
+
+
+
+
+
